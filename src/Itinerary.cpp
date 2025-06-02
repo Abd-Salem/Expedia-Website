@@ -9,7 +9,7 @@
  * @author Abdallah Salem
  */
 
-#include "../inlcude/Itinerary.hpp"
+#include "../include/Itinerary.hpp"
 
 Itinerary::~Itinerary() {
 	Reservations.clear();
